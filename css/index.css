@@ -1,0 +1,14 @@
+.title{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.toAlign{
+    width: 50%;
+  margin: 0 auto;
+}
+
+.toCenter{
+    text-align: center;
+}

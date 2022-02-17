@@ -1,0 +1,28 @@
+#mapContainer { height: 800px; width: 100%; }
+		.mapArea { width: 700px; height: 100%; float: left; }
+		.map { width: 700px; height: 700px; }
+		.info {
+			padding: 6px 8px;
+			font: 14px/16px Arial, Helvetica, sans-serif;
+			background: white;
+			background: rgba(255,255,255,0.8);
+			box-shadow: 0 0 15px rgba(0,0,0,0.2);
+			border-radius: 5px;
+		}
+		.info h4 {
+			margin: 0 0 5px;
+			color: #777;
+		}
+		.legend {
+			font-size: x-small;	
+			text-align: left;
+			line-height: 12px;
+			color: #555;
+		}
+		.legend i {
+			width: 20px;
+			height:10px;
+			float: left;
+			margin-right: 1px;
+			opacity: 0.7;
+		}
